@@ -239,6 +239,7 @@ line-height: 16px;
   position: absolute;
   top: 50%;
   right: -35px;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .swiper-container {
