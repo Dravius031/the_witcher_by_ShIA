@@ -45,11 +45,13 @@ body {
   color: #FFFFFF;
   text-decoration: none;
   margin-right: 24px;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .social-link {
   margin-left: 20px;
   text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .genre {
@@ -265,6 +267,7 @@ line-height: 16px;
   text-decoration: none;
   color: #3A383D;
   margin-left: 25px;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .copyright{
@@ -307,6 +310,7 @@ line-height: 16px;
     border: none;
     cursor: pointer;
     z-index: 99;
+    -webkit-tap-highlight-color: transparent;
   }
   .menu-button:before{
     content: '';
