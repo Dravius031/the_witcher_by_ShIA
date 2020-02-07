@@ -102,6 +102,7 @@ body {
 .button:active {
   color: #fff;
 }
+.button:active, .button:focus {outline: none;}
 .main-content {
   display: flex;
   align-items: center;
